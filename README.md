@@ -1,4 +1,4 @@
-# Pipelines_titanic
+# ***Pipelines de Preprocesamiento de Datos del Titanic***
  *Autor: Sara Peña Alvarez*
 
 #### *Proyecto*
